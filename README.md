@@ -1,2 +1,2 @@
 # TCC
-Meu trabalho de conclusão de curso.
+# Este repositório contém o meu meu trabalho de conclusão do curso de Ciência de Dados e Big Data.
