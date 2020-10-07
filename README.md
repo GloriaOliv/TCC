@@ -19,7 +19,7 @@ Caso não consiga visualizar algum arquivo do Jupyter Notebook, é só clicar no
 <a href="https://gloriaoliv.github.io/TCC/paginasHTML/4 - Análise de dados - Parte 2">4 - Análise de dados - Parte 2</a>
 
 5 - Machine Learning - Implementação: <br>
-<a href="https://gloriaoliv.github.io/TCC/paginasHTML/5 - Machine Learning - Implementação">5 - Machine Learning - Implementação</a
+<a href="https://gloriaoliv.github.io/TCC/paginasHTML/5 - Machine Learning - Implementação">5 - Machine Learning - Implementação</a>
 
 5 - Machine Learning - Teste e Treina: <br>
-<a href="https://gloriaoliv.github.io/TCC/paginasHTML/5 - Machine Learning - Teste e Treina">5 - Machine Learning - Teste e Treina</a
+<a href="https://gloriaoliv.github.io/TCC/paginasHTML/5 - Machine Learning - Teste e Treina">5 - Machine Learning - Teste e Treina</a>
