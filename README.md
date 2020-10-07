@@ -10,21 +10,21 @@ Caso não consiga visualizar algum arquivo do Jupyter Notebook, é só clicar no
 
 2 - Processamento e Tratamento de Dados <br>
 
-<a href="https://gloriaoliv.github.io/TCC/https://gloriaoliv.github.io/TCC/paginasHTML/2 - Processamento e Tratamento de Dados.html">2 - Processamento e Tratamento de Dados</a>
+<a href="https://gloriaoliv.github.io/TCC/paginasHTML/2 - Processamento e Tratamento de Dados.html">2 - Processamento e Tratamento de Dados</a>
 
 
 3 - Processamento e Tratamento de Dados <br>
 
-https://gloriaoliv.github.io/TCC/paginasHTML/3 - Processamento e Tratamento de Dados.html
+
 
 4 - Análise de dados - Parte 1 <br>
-https://gloriaoliv.github.io/TCC/paginasHTML/4 - Análise de dados - Parte 1.html
+
 
 4 - Análise de dados - Parte 2 <br>
-https://gloriaoliv.github.io/TCC/paginasHTML/4 - Análise de dados - Parte 2.html
+
 
 5 - Machine Learning - Implementação <br>
-https://gloriaoliv.github.io/TCC/paginasHTML/5 - Machine Learning - Implementação.html
+
 
 5 - Machine Learning - Teste e Treina <br>
-https://gloriaoliv.github.io/TCC/paginasHTML/5 - Machine Learning - Teste e Treina.html
+
