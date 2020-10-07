@@ -4,7 +4,7 @@
 Caso não consiga visualizar algum arquivo do Jupyter Notebook, é só clicar nos links alternativos a seguir:
 
 1 - Exploração inicial dos datasets utilizados
-https://gloriaoliv.github.io/TCC/1 - Exploração inicial dos datasets utilizados.html
+<a href=“https://gloriaoliv.github.io/TCC/1 - Exploração inicial dos datasets utilizados.html“>1 - Exploração inicial dos datasets utilizados</a>
 
 2 - Processamento e Tratamento de Dados
 https://gloriaoliv.github.io/TCC/2 - Processamento e Tratamento de Dados.html
