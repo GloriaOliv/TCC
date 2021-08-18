@@ -1,5 +1,5 @@
 # TCC
-### Este repositório contém o meu meu trabalho de conclusão do curso de Ciência de Dados e Big Data na PUC Minas.
+### Este repositório contém o meu trabalho de conclusão do curso de Ciência de Dados e Big Data na PUC Minas.
 
 #### Caso você não consiga visualizar algum arquivo do Jupyter Notebook, é só clicar nos links alternativos a seguir:
 
